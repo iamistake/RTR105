@@ -1,22 +1,22 @@
 # RTR105_2019
-firefox & -atvert firefox lai varetu darboties ar teminalu
-man firefox - apskatit par firefox vairak info
-uname -uzzinat operetajsistemu
-uname - a -vairak info par operetajsistemu
-echo $0-pieprasam sistemu ar mainigo 
-echo -pieprasit
-whoami- kas esmu
-pwd - kur esmu
-ls - pieejami dati 
-ls -la  - visi pieejami dati ,ka ari sleptie ( ar . prieksa)
-cd - parriet uz
-cd / - pariet uz sakni
-cd home/ - pariet uz majam
-cd /user -pariet uz user
-cd ~ -pariet uz majam (/home/user/)
-mkdir manamape - izveidot mapi
-rmdir manamapa - izdzest mapi
-history - visas darbibas 
-history > history_20190912.txt - izveidot failu ar tekstu kura bus history
-exit - iziet 
-sh - mazaka neka bush
+1.firefox & -atvert firefox lai varetu darboties ar teminalu
+2.man firefox - apskatit par firefox vairak info
+3.uname -uzzinat operetajsistemu
+4.uname - a -vairak info par operetajsistemu
+5.echo $0-pieprasam sistemu ar mainigo 
+6.echo -pieprasit
+7.whoami- kas esmu
+8.pwd - kur esmu
+9.ls - pieejami dati 
+10.ls -la  - visi pieejami dati ,ka ari sleptie ( ar . prieksa)
+11.cd - parriet uz
+12.cd / - pariet uz sakni
+13.cd home/ - pariet uz majam
+14.cd /user -pariet uz user
+15.cd ~ -pariet uz majam (/home/user/)
+16.mkdir manamape - izveidot mapi
+17.rmdir manamapa - izdzest mapi
+18.history - visas darbibas 
+19.history > history_20190912.txt - izveidot failu ar tekstu kura bus history
+20.exit - iziet 
+21.sh - mazaka neka bush
