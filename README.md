@@ -20,3 +20,16 @@
 19.history > history_20190912.txt - izveidot failu ar tekstu kura bus history
 20.exit - iziet 
 21.sh - mazaka neka bush
+22.touch -izveidot jaunu failu
+23.cat aaa.txt - izlasit tekstu faila
+24.echo Pirmais teksts > aaa.txt - izveidot tekstu faila
+25.echo Otrais teksts >>aaa.txt - papildinat tekstu
+26.cp aaa.txt bbb.txt - kopet tekstu mo a uz b un izveidot ari b
+27.nano aaa.txt -atvert GUI
+28.mv ~/aaa.txt ~/documents/ccc.txt - parvietot failu a uz doc. un partaisit to par failu c
+29.nano mans pirmais skript - izveidot skriptu
+30.rm- remove - izdzest
+31.echo $PATH - paskatities celu
+32. ls/bin | grep ls - 
+33. PATH=PATH$ - pievienot path mainigo path
+34. chmod 740 ma..... -izveidot mums tiesibas 
