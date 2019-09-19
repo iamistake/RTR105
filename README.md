@@ -32,4 +32,8 @@
 31.echo $PATH - paskatities celu
 32. ls/bin | grep ls - 
 33. PATH=PATH$ - pievienot path mainigo path
-34. chmod 740 ma..... -izveidot mums tiesibas 
+34. chmod 740 ma..... -izveidot mums tiesibas
+35.git clone .....-pievienot git hub
+36.cd RTR105-ienakt iekšā
+37.nano elementary.c- izveidojam skriptu ar c valodu un darbojamies ar to
+38.gcc elementary -rekonstruet....?! 

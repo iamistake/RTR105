@@ -1,0 +1,98 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox 
+    4  pwd
+    5  firefox&
+    6  git clone https://github.com/iamistake/RTR105
+    7  ls -l
+    8  cd RTR105/
+    9  ls -l
+   10  ls -la
+   11  pwd
+   12  ls -l
+   13  cat README.md 
+   14  nano git-upload
+   15  ls -l
+   16  cat git-upload 
+   17  chmod 700 git-upload 
+   18  ls -l
+   19  whereis git-upload
+   20  echo $PATH
+   21  ./git-upload 
+   22  ./git-upload 20190919_15_00
+   23  cd ~
+   24  rm - rt RTR105/
+   25  rm - rf RTR105/
+   26  rm -rf RTR105/
+   27  ls -l
+   28  git clone https://github.com/iamistake/RTR105
+   29  ls -l
+   30  cd RTR105/
+   31  ls -l
+   32  cd ~
+   33  pwd
+   34  ls -l
+   35  cat git-upload 
+   36  cat RTR105/
+   37  cat README.md 
+   38  cd RTR105/
+   39  cat README.md 
+   40  cd ~
+   41  cd RTR105/
+   42  nano elementary.c
+   43  ls -l
+   44  mkdir darbi
+   45  mv elementary.c darbi/
+   46  cd darbi/
+   47  ls -l
+   48  cat elementary.c 
+   49  ls -l
+   50  gcc elementary.c 
+   51  nano elementary.c 
+   52  gcc elementary.c 
+   53  ls -l
+   54  ./a.out
+   55  gcc elementary.c -o prg1
+   56  ls -l
+   57  ./prg1 
+   58  nano elementary.c 
+   59  gcc elementary.c -o prg2
+   60  ls -l
+   61  nano elementary.c 
+   62  gcc elementary.c -o prg3
+   63  ls -l
+   64  cat prg1
+   65  cp elementary.c hello.c
+   66  ls -l
+   67  nano hello.c 
+   68  gcc hello.c 
+   69  nano hello.c 
+   70  gcc hello.c 
+   71  nano hello.c 
+   72  gcc hello.c 
+   73  cat hello.c 
+   74  gcc hello.c -o hello
+   75  ./hello 
+   76  nano hello
+   77  nano hello.c
+   78  gcc hello.c -o hello
+   79  ls -l
+   80  gcc hello.c -o hello
+   81  nano hello.c 
+   82  gcc hello.c -o hello
+   83  nano hello.c 
+   84  gcc hello.c -o hello
+   85  nano hello.c 
+   86  gcc hello.c -o hello
+   87  nano hello.c 
+   88  gcc hello.c -o hello
+   89  ./hello 
+   90  ls -l
+   91  rm prg*
+   92  ls -l
+   93  rm a.out 
+   94  rm hello
+   95  ls -l
+   96  cs ..
+   97  cd ..
+   98  history > history_20190919_16_00
